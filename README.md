@@ -18,7 +18,7 @@
 
 ### .NET
 
-- `dotnet run
+- navigate to `src/` and `dotnet run`
 
 ## Changelog
 
