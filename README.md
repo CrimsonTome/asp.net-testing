@@ -2,17 +2,24 @@
 
 > testing repo for asp.net
 
+- [asp.net-testing](#aspnet-testing)
+  - [System requirements](#system-requirements)
+  - [Running](#running)
+    - [.NET](#net)
+  - [Changelog](#changelog)
+  - [License](#license)
+
 ## System requirements
 
 - .NET 6.x
 - tested on Fedora 37 but any OS with .NET 6.x should work fine
-- 
+
 ## Running
 
 ### .NET
 
 - `dotnet run
-- 
+
 ## Changelog
 
 - generate the changelog with `./changelog` or `bash /path/to/changelog`
