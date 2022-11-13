@@ -27,4 +27,4 @@
 
 ## License
 
-asp.net-testing is licensed under the Apache-2.0 License. The full license text is included in the [LICENSE](LICENSE.md) file in this repository. Tldr legal have a [great summary](https://www.tldrlegal.com/l/apache2) of the license if you're interested.
+asp.net-testing is licensed under the Apache-2.0 License. The full license text is included in the [LICENSE](LICENSE) file in this repository. Tldr legal have a [great summary](https://www.tldrlegal.com/l/apache2) of the license if you're interested.
